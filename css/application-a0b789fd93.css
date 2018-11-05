@@ -352,6 +352,9 @@ html {
 .dt-footer li {
   margin-bottom: 5px;
 }
+.collapsible-body {
+  padding: 8px;
+}
 @media only screen and (max-width: 600px) {
   .dt-footer .right-align {
     text-align: center;
