@@ -355,6 +355,15 @@ html {
 .collapsible-body {
   padding: 8px;
 }
+.bg-dark-green {
+  background-color: #388e3c;
+}
+.bg-red {
+  background-color: #df382b;
+}
+.bg-blue {
+  background-color: #4285f4 !important;
+}
 @media only screen and (max-width: 600px) {
   .dt-footer .right-align {
     text-align: center;
