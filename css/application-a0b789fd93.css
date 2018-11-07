@@ -338,6 +338,9 @@ html {
 .logo-google {
   padding-top: 0;
 }
+.logo-panobloc {
+  padding-top: 25px;
+}
 @media only screen and (max-width: 992px) {
   .dt-sponsors-logo-gdg {
     margin-bottom: 80px;
